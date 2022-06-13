@@ -11,7 +11,7 @@ Test Push
 === 1.2: Image basics
 === 1.3: Drawing
 === 1.4: Basic image processing
-1.4.1: Translation
+=== 1.4:1.4.1: Translation
 1.4.2: Rotation
 1.4.3: Resizing
 1.4.4: Flipping
