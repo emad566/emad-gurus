@@ -19,9 +19,9 @@ Test Push
 === 1.4.6_Image arithmetic
 === 1.4.7_Bitwise operations
 === 1.4.8_Masking
-1.4.9_Splitting and merging channels
-1.5_Kernels
-1.6_Morphological operations
+=== 1.4.9_Splitting and merging channels
+=== 1.5_Kernels
+=== *** 1.6_Morphological operations: could adpte my work
 1.7_Smoothing and blurring
 1.8_Lighting and color spaces
 1.9_Thresholding
