@@ -10,7 +10,7 @@ Test Push
 === 1.1: Loading, displaying, and saving images
 === 1.2: Image basics
 === 1.3: Drawing
-1.4: Basic image processing
+=== 1.4: Basic image processing
 1.4.1: Translation
 1.4.2: Rotation
 1.4.3: Resizing
