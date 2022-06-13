@@ -17,8 +17,8 @@ Test Push
 === 1.4.4_Flipping
 === 1.4.5_Cropping
 === 1.4.6_Image arithmetic
-1.4.7_Bitwise operations
-1.4.8_Masking
+=== 1.4.7_Bitwise operations
+=== 1.4.8_Masking
 1.4.9_Splitting and merging channels
 1.5_Kernels
 1.6_Morphological operations
@@ -51,6 +51,10 @@ Test Push
 10.7_Local Binary Patterns
 10.8_Histogram of Oriented Gradients
 11.1_Measuring distance from camera to object in image
+***********
+** Monh 2
+***********
+
 2.1_What are object detectors?
 2.1.1_An introduction to object detection
 2.1.2_Template matching
