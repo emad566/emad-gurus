@@ -22,11 +22,11 @@ Test Push
 === 1.4.9_Splitting and merging channels
 === 1.5_Kernels
 === *** 1.6_Morphological operations: could adpte my work
-1.7_Smoothing and blurring
-1.8_Lighting and color spaces
-1.9_Thresholding
-1.10_Gradients and edge detection
-1.10.1_Gradients
+=== 1.7_Smoothing and blurring
+=== 1.8_Lighting and color spaces
+=== *** 1.9_Thresholding: could adpte my work 
+=== 1.10_Gradients and edge detection
+=== 1.10.1_Gradients
 1.10.2_Edge detection
 1.11_Contours
 1.11.1_Finding and drawing contours
