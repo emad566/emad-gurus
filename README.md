@@ -27,7 +27,7 @@ Test Push
 === *** 1.9_Thresholding: could adpte my work 
 === 1.10_Gradients and edge detection
 === 1.10.1_Gradients
-1.10.2_Edge detection
+1.10.2_Edge detection-canny
 1.11_Contours
 1.11.1_Finding and drawing contours
 1.11.2_Simple contour properties
