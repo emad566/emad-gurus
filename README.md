@@ -30,8 +30,8 @@ Test Push
 === 1.10.2 Edge detection-canny
 === 1.11 Contours
 === 1.11.1 Finding and drawing contours
-1.11.2 Simple contour properties
-1.11.3 Advanced contour properties
+=== 1.11.2 Simple contour properties
+=== 1.11.3 Advanced contour properties
 1.11.4 Contour approximation
 1.11.5 Sorting contours
 1.12 Histograms
