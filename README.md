@@ -32,8 +32,8 @@ Test Push
 === 1.11.1 Finding and drawing contours
 === 1.11.2 Simple contour properties
 === 1.11.3 Advanced contour properties
-1.11.4 Contour approximation
-1.11.5 Sorting contours
+=== 1.11.4 Contour approximation
+=== 1.11.5 Sorting contours
 1.12 Histograms
 1.13 Connected-component labeling
 4.1 A high level overview of image classification
